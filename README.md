@@ -16,7 +16,7 @@
 
 <p align="center"><img src="https://github.com/tanyachernysheva/github_app/blob/main/docs/assets/data.png" width="250"></p>
 
- При нажатии на репозиторий, открывается страница в браузере: 
+ При нажатии на репозиторий открывается страница в браузере: 
 
  <p align="center"><img src="https://github.com/tanyachernysheva/github_app/blob/main/docs/assets/webpage.png" width="250"></p>
 
