@@ -22,5 +22,5 @@
 
  Если нет репозитория по текущему поиску: 
 
- <p align="center"><img src="https://github.com/tanyachernysheva/github_app/blob/main/docs/assets/no_result.png" width="250"></p>
+ <p align="center"><img src="https://github.com/tanyachernysheva/github_app/blob/main/docs/assets/no_results.png" width="250"></p>
 
